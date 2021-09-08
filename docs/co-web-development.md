@@ -28,7 +28,7 @@ C3にて、Web開発をチームで行う場合のTips的なこと
 という2つの課題を両立させるためにどうすればよいか、常に考えてチームを牽引する必要があると思う。
 
 <!-- markdownlint-disable MD033 -->
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/gtm6yZur9eRFoo1UvO/video" width="480"></iframe></div>
+<video src="https://media2.giphy.com/media/gtm6yZur9eRFoo1UvO/giphy360p.mp4?cid=790b76112a3ccecaf5bbdd9584f0f755e7266c03a5a37f3f&rid=giphy360p.mp4&ct=v" autoplay>
 
 ## いくつかの施策
 
